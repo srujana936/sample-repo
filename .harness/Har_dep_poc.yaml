@@ -1,0 +1,5 @@
+service:
+  name: Har_dep_poc
+  identifier: Har_dep_poc
+  orgIdentifier: default
+  projectIdentifier: default_project
